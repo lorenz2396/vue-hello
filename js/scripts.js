@@ -3,7 +3,8 @@ const { createApp } = Vue;
 const app = createApp({
     data() {
         return {
-            text: 'Hello World!'
+            text: 'Hello World!',
+            imageUrl: 'img/03.webp'
         }
     },
 
